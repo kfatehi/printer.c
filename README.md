@@ -6,4 +6,4 @@ The source code was originally extracted from linux kernel version 3.8.13
 
 CHANGELOG
 
-* Backported patch https://lkml.org/lkml/2015/8/3/231
+* Backported [patch](https://lkml.org/lkml/2015/8/3/231) that solves the spinlock bug
